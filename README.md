@@ -5,7 +5,7 @@ This is the Web Template for express, express.js (ejs).
 ## How to install
 
 To download all dependencies:
-```
+```bash
 $ npm install
 ```
 

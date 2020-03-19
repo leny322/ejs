@@ -1,9 +1,12 @@
-# node-express-helloworld
+# express.js
 
-https://github.com/xraybat/node-express-helloworld.git
-node.js express helloworld sample
+This is the Web Template for express, express.js (ejs).
 
-build:  express --view=pug helloworld
-        cd helloworld && npm install
+## How to install
 
-run:    DEBUG=helloworld:* npm start
+To download all dependencies:
+```
+$ npm install
+```
+
+Now go ahead and get ready with web developement.
